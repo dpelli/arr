@@ -1,1 +1,1 @@
-The object of this project is to determine the Annual Recurring Revenue for each customer account as well as for an entire account hierarchy based upon information given in three separate csv files.
+The objective of this project is to determine the Annual Recurring Revenue for each customer account as well as for an entire account hierarchy based upon information given in three separate csv files.
